@@ -1,0 +1,1 @@
+# segmented_scene_cathedral
